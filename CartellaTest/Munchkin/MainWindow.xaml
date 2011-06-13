@@ -67,5 +67,6 @@
 				<Button Content="Button" Style="{DynamicResource Carta_Pulsante}"/>
 			</StackPanel>
 		</ScrollViewer>
+		<Button Content="Button" HorizontalAlignment="Left" Margin="214,264,0,0" VerticalAlignment="Top" Width="75"/>
 	</Grid>
 </Window>
